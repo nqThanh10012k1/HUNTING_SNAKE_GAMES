@@ -1,0 +1,39 @@
+!SESSION 2022-07-28 19:23:24.810 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Project\HUNTING_SNAKE_GAMES
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-28 19:23:37.356
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-28 19:23:37.459
+!MESSAGE Log4j initialized with config file D:\Project\HUNTING_SNAKE_GAMES\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-28 19:23:42.846
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-28 19:24:59.359
+!MESSAGE Indexed 'HUNTING_SNAKE_GAMES' (2 sources, 53 headers) in 2.33 sec: 1,947 declarations; 2,809 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-28 19:25:58.799
+!MESSAGE Indexed 'HUNTING_SNAKE_GAMES' (3 sources, 72 headers) in 1.13 sec: 4,913 declarations; 7,664 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.016%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-28 19:26:16.814
+!MESSAGE Indexed 'HUNTING_SNAKE_GAMES' (4 sources, 72 headers) in 1.62 sec: 5,063 declarations; 8,935 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.014%)
+!SESSION 2022-07-28 19:32:57.436 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-28 19:33:05.696
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-28 19:33:05.804
+!MESSAGE Log4j initialized with config file D:\Project\HUNTING_SNAKE_GAMES\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-28 19:33:17.186
+!MESSAGE Started RMI Server, listening on port 41337
